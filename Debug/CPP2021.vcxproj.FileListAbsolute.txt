@@ -1,0 +1,3 @@
+D:\MISHA\Универ\Программирование\C++\Task 2.2\Debug\CPP2021.vcxprojAssemblyReference.cache
+D:\MISHA\Универ\Программирование\C++\Task 2.2\Debug\CPP2021.exe
+D:\MISHA\Универ\Программирование\C++\Task 2.2\Debug\CPP2021.pdb

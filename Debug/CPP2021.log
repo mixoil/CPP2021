@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Task 2.2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  AssemblyInfo.cpp
+  ChessPosition.cpp
+  Complex.cpp
+  F.cpp
+  P.cpp
+  S.cpp
+  CPP2021.cpp
+  Value.cpp
+  Vector2v.cpp
+  Vector4v.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CPP2021.vcxproj -> D:\MISHA\Универ\Программирование\C++\Task 2.2\Debug\CPP2021.exe
