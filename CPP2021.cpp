@@ -1,10 +1,10 @@
-﻿#include "pch.h"
 
-using namespace System;
+﻿#include <iostream>
+#include "MovingConstrTests.h"
 using namespace std;
-
 
 int main()
 {
-    return 0;
-}
+	auto MCT = new MovingConstrTests();
+	MCT->make_tests();
+	return 0;
